@@ -36,14 +36,14 @@ for d in range(63, 139):
     contests.append("weekly-contest-" + str(d))
 
 d0 = 139
-for d in range(1, 35):
+for d in range(1, 42):
     contests.append("biweekly-contest-" + str(d))
     contests.append("weekly-contest-" + str(d0))
     d0 += 1
     contests.append("weekly-contest-" + str(d0))
     d0 += 1
 
-contests.pop()
+#contests.pop()
 #contests.pop()
 
 # Read results
@@ -78,7 +78,7 @@ for i, contest in enumerate(contests):
         for name in names:
             found = True
             if firstzero is False:
-                score = name.next_element.next_element.next_element.next_element.next_element.text
+                score = name.text #next_element.next_element.next_element.next_element.next_element.text
 
                 if score == "0":
                     results.append(ZERO)
