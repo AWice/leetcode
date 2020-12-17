@@ -1,12 +1,12 @@
 1 neal_wu 3596
-2 uwi 3435
-3 JOHNKRAM 3417
+2 JOHNKRAM 3452
+3 uwi 3435
 4 xiaowuc1 3380
 5 natsugiri 3370
 6 tmwilliamlin168 3369
-7 awice 3348
-8 LayCurse 3326
-9 Heltion 3325
+7 Heltion 3358
+8 awice 3348
+9 LayCurse 3326
 10 hank55663 3308
 11 ASAPIN 3242
 12 liouzhou_101 3233
@@ -15,6 +15,6 @@
 15 superluminal 3194
 16 kmjp 3178
 17 beet 3177
-18 huzecong 3170
-19 zerotrac2 3161
-20 QingchuanZhang-Microsoft 3156
+18 zerotrac2 3173
+19 huzecong 3170
+20 SaveVMK 3162
